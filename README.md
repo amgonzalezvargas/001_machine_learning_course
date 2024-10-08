@@ -51,9 +51,15 @@ To use these materials:
 
 If you find any errors or have suggestions for improvements, feel free to contact me.
 
+## Acknowledgments
+
+These materials here were developed for educational purposes in the field of Machine Learning and Data Science. 
+They contain my own material, as well as material from other sources and authors. 
+I've tried to give credits to the different authors the best I can, but if you find atribution missing, feel free to contact me.
+
 ## License
 
-Basically you can use this code for your personal purposes, but it wpuld be very nice if you cite it. You can do it like this:
+Basically you can use this code for your personal purposes, but it would be very nice if you cite it. You can do it like this:
 
 Gonzalez-Vargas Andres. (2024). Machine Learning and Data Science Course Materials. GitHub. https://github.com/amgonzalezvargas/001_machine_learning_course
 
@@ -82,9 +88,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-## Acknowledgments
 
-These materials here were developed for educational purposes in the field of Machine Learning and Data Science. 
-They contain my own material, as well as material from other sources. 
-I've tried to give credits to the different authors the best I can, but if you find atribution missing, feel free to contact me.
 
