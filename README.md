@@ -1,6 +1,7 @@
 # Machine Learning and Data Science Course Materials
 
-This repository contains Jupyter notebooks and other materials for a comprehensive course on Machine Learning and Data Science. The materials cover a wide range of topics, from introductory Python programming to advanced machine learning algorithms.
+This repository contains Jupyter notebooks and other materials for a comprehensive course on Machine Learning and Data Science. This is a course I've been teaching since 2020. The materials cover a wide range of topics, from introductory Python programming to advanced machine learning algorithms.
+
 
 ## Course Contents
 
