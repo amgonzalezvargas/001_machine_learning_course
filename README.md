@@ -54,7 +54,7 @@ If you find any errors or have suggestions for improvements, feel free to contac
 ## Acknowledgments
 
 These materials here were developed for educational purposes in the field of Machine Learning and Data Science. 
-They contain my own material, as well as material from other sources and authors. 
+They contain my own material, as well as material adapted from other sources and authors. 
 I've tried to give credits to the different authors the best I can, but if you find atribution missing, feel free to contact me.
 
 ## License
